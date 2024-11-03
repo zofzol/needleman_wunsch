@@ -9,8 +9,8 @@ Przykładowa zawartość pliku wejściowego:
     > informacje o sekwencji
     ADDAGGGCCACACDCDCAGAGDCDCAAAADCAGDDA
 Oczekiwany wynik:
-    A	D	D	A	G	G	G	C	C	A	C	A	-	C	D	C	D
+    A D	D A	G G	G C	C A	C A	- C	D C	D
     | | * * | * | *   | * |   | * | *
-    A	D	A	D	G	D	G	D	-	A	D	A	D	C	C	C	G
+    A D	A D	G D	G D	- A	D A	D C	C C	G
     Score = -3
 gdzie "|" oznacza "match", a "*" oznacza "mismatch".
